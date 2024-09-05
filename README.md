@@ -1,2 +1,3 @@
-# GDSC
+# SMIT
 Tutorial
+THIS IS MY CODE
